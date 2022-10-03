@@ -1,0 +1,16 @@
+body{ 
+    color:darkgreen;
+    background-color: burlywood;
+    background-image: url("download.jfif");
+    background-repeat: no-repeat;    
+    background-position: 10em;
+}
+
+ul a:link{
+    color:rgb(0, 26, 255);
+} 
+div time {color:brown}
+div {
+    padding: 20 20 20 20;
+}
+
